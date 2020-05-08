@@ -1,10 +1,12 @@
 # IBM Quantum Challenge exercises
 
-Original version of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge).
+Original version of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge). This forked repository contains my progress/notes from the challenge as well.
 
 ## What's in this repository?
 
 In this repository you will find a copy of the exercises in the [IBM Quantum Challenge](http://ibm.co/quantumchallenge), some useful hints and a live FAQ that we will fill-in as the challenge unfolds.
+
+My progress/solutions during this challenge is captured [here](./my_solutions/)
 
 ## I'm stuck. How can I solve the exercises?
 
@@ -26,7 +28,3 @@ If you are experiencing problems when validating the exercises, try the followin
 
 3. Run the cell by pressing `Shift`+`Enter`.
 4. Reload the exercises that you opened again.
-
-## Where is the conversation happening?
-
-There is a channel (`#ibm-quantum-challenge`) dedicated to the Challenge in [Qiskit Slack](http://qisk.it/slack). Join the conversation!
